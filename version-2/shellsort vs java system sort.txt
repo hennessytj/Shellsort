@@ -1,0 +1,132 @@
+Size = 250
+---------------------------
+Shellsort time = 0.0
+Java sort time = 0.052
+
+
+Size = 500
+---------------------------
+Shellsort time = 0.0
+Java sort time = 0.0010
+
+
+Size = 1000
+---------------------------
+Shellsort time = 0.0010
+Java sort time = 0.0040
+
+
+Size = 2000
+---------------------------
+Shellsort time = 0.0010
+Java sort time = 0.0040
+
+
+Size = 4000
+---------------------------
+Shellsort time = 0.0010
+Java sort time = 0.0040
+
+
+Size = 8000
+---------------------------
+Shellsort time = 0.0020
+Java sort time = 0.0030
+
+
+Size = 16000
+---------------------------
+Shellsort time = 0.0030
+Java sort time = 0.0050
+
+
+Size = 32000
+---------------------------
+Shellsort time = 0.0050
+Java sort time = 0.0090
+
+
+Size = 64000
+---------------------------
+Shellsort time = 0.012
+Java sort time = 0.022
+
+
+Size = 128000
+---------------------------
+Shellsort time = 0.02
+Java sort time = 0.037
+
+
+Size = 256000
+---------------------------
+Shellsort time = 0.048
+Java sort time = 0.077
+
+
+Size = 512000
+---------------------------
+Shellsort time = 0.106
+Java sort time = 0.218
+
+
+Size = 1024000
+---------------------------
+Shellsort time = 0.224
+Java sort time = 0.353
+
+
+Size = 2048000
+---------------------------
+Shellsort time = 0.512
+Java sort time = 0.765
+
+
+Size = 4096000
+---------------------------
+Shellsort time = 1.041
+Java sort time = 1.557
+
+
+Size = 8192000
+---------------------------
+Shellsort time = 2.42
+Java sort time = 3.417
+
+
+Size = 16384000
+---------------------------
+Shellsort time = 5.193
+Java sort time = 7.077
+
+
+Size = 32768000
+---------------------------
+Shellsort time = 11.94
+Java sort time = 15.567
+
+
+Size = 65536000
+---------------------------
+Shellsort time = 25.729
+Java sort time = 32.814
+
+
+Size = 131072000
+---------------------------
+Shellsort time = 59.358
+Java sort time = 73.414
+
+
+Size = 262144000
+---------------------------
+Shellsort time = 139.579
+Java sort time = 166.985
+
+
+Size = 524288000
+---------------------------
+Shellsort time = 344.746
+Java sort time = 398.868
+
+
